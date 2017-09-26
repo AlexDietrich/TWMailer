@@ -11,8 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92b9a25f-f09a-465b-a8d2-d5f918ab7c42" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/TWMailer" afterPath="$PROJECT_DIR$/cmake-build-debug/TWMailer" />
+    <list default="true" id="92b9a25f-f09a-465b-a8d2-d5f918ab7c42" name="Default" comment="Test-Commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -138,7 +137,7 @@
       <updated>1506364121448</updated>
       <workItem from="1506364125159" duration="95000" />
       <workItem from="1506364345562" duration="12000" />
-      <workItem from="1506423265880" duration="2815000" />
+      <workItem from="1506423265880" duration="3417000" />
     </task>
     <task id="LOCAL-00001" summary="Test-Commit">
       <created>1506426111076</created>
@@ -147,11 +146,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506426111077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test-Commit">
+      <created>1506426182361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1506426182361</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2922000" />
+    <option name="totallyTimeSpent" value="3524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1856" height="988" extended-state="6" />
@@ -243,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
