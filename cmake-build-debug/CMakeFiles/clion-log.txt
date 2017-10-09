@@ -1,6 +1,6 @@
-/home/adietrich/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/172.3968.17/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/adietrich/TWMailer
--- The C compiler identification is GNU 7.2.1
--- The CXX compiler identification is GNU 7.2.1
+/home/osboxes/Desktop/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/osboxes/Desktop/TWMailer
+-- The C compiler identification is GNU 7.2.0
+-- The CXX compiler identification is GNU 7.2.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
 -- Detecting C compiler ABI info
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/adietrich/TWMailer/cmake-build-debug
+-- Build files have been written to: /home/osboxes/Desktop/TWMailer/cmake-build-debug
