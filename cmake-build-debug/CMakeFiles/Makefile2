@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/adietrich/TWMailer/cmake-build-debug
 CMakeFiles/TWMailer.dir/all:
 	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/depend
 	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adietrich/TWMailer/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target TWMailer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adietrich/TWMailer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target TWMailer"
 .PHONY : CMakeFiles/TWMailer.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/TWMailer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TWMailer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adietrich/TWMailer/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adietrich/TWMailer/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TWMailer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adietrich/TWMailer/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/TWMailer.dir/rule

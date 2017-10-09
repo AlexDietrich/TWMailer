@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/TWMailer.dir/main.cpp.o  -o TWMailer 
+/usr/bin/c++  -g   CMakeFiles/TWMailer.dir/main.cpp.o CMakeFiles/TWMailer.dir/myClient.cpp.o CMakeFiles/TWMailer.dir/myServer.cpp.o  -o TWMailer 

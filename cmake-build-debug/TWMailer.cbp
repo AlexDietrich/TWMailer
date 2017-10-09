@@ -83,6 +83,12 @@
 		<Unit filename="/home/adietrich/TWMailer/main.cpp">
 			<Option target="TWMailer"/>
 		</Unit>
+		<Unit filename="/home/adietrich/TWMailer/myClient.cpp">
+			<Option target="TWMailer"/>
+		</Unit>
+		<Unit filename="/home/adietrich/TWMailer/myServer.cpp">
+			<Option target="TWMailer"/>
+		</Unit>
 		<Unit filename="/home/adietrich/TWMailer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

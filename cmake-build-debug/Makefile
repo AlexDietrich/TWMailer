@@ -150,6 +150,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+myClient.o: myClient.cpp.o
+
+.PHONY : myClient.o
+
+# target to build an object file
+myClient.cpp.o:
+	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/myClient.cpp.o
+.PHONY : myClient.cpp.o
+
+myClient.i: myClient.cpp.i
+
+.PHONY : myClient.i
+
+# target to preprocess a source file
+myClient.cpp.i:
+	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/myClient.cpp.i
+.PHONY : myClient.cpp.i
+
+myClient.s: myClient.cpp.s
+
+.PHONY : myClient.s
+
+# target to generate assembly for a file
+myClient.cpp.s:
+	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/myClient.cpp.s
+.PHONY : myClient.cpp.s
+
+myServer.o: myServer.cpp.o
+
+.PHONY : myServer.o
+
+# target to build an object file
+myServer.cpp.o:
+	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/myServer.cpp.o
+.PHONY : myServer.cpp.o
+
+myServer.i: myServer.cpp.i
+
+.PHONY : myServer.i
+
+# target to preprocess a source file
+myServer.cpp.i:
+	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/myServer.cpp.i
+.PHONY : myServer.cpp.i
+
+myServer.s: myServer.cpp.s
+
+.PHONY : myServer.s
+
+# target to generate assembly for a file
+myServer.cpp.s:
+	$(MAKE) -f CMakeFiles/TWMailer.dir/build.make CMakeFiles/TWMailer.dir/myServer.cpp.s
+.PHONY : myServer.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +216,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... myClient.o"
+	@echo "... myClient.i"
+	@echo "... myClient.s"
+	@echo "... myServer.o"
+	@echo "... myServer.i"
+	@echo "... myServer.s"
 .PHONY : help
 
 
