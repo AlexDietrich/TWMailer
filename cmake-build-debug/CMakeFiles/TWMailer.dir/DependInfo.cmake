@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/osboxes/Desktop/TWMailer/main.cpp" "/home/osboxes/Desktop/TWMailer/cmake-build-debug/CMakeFiles/TWMailer.dir/main.cpp.o"
+  "/home/adietrich/TWMailer/main.cpp" "/home/adietrich/TWMailer/cmake-build-debug/CMakeFiles/TWMailer.dir/main.cpp.o"
+  "/home/adietrich/TWMailer/myClient.cpp" "/home/adietrich/TWMailer/cmake-build-debug/CMakeFiles/TWMailer.dir/myClient.cpp.o"
+  "/home/adietrich/TWMailer/myServer.cpp" "/home/adietrich/TWMailer/cmake-build-debug/CMakeFiles/TWMailer.dir/myServer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
